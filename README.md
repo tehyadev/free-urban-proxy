@@ -1,4 +1,4 @@
-# falais-proxy
+# free-urban-proxy
 
 Gets free proxy credentials from Urban VPN is unofficial API.
 
